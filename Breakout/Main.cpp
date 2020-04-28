@@ -1,3 +1,6 @@
+/**
+* Main file that renders the window to the screen and runs the game
+*/
 #include <iostream>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
